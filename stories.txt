@@ -1,0 +1,22 @@
+Sprint 1:
+----------
+1. Set up Git and Github account to store and track the enhancements of the prototype.
+2. Add a Welcome Screen  that contains Application name, Developer Details  , User Interactions Options
+3. Add feature to display file names in ascending order
+
+Sprint 2:
+----------
+1. Implement the feature to add file
+2. Implement the feature to delete file
+3. Implement feature search file
+
+Sprint 3:
+----------
+1. Implement the feature to return to the main menu
+2. Implement the feature close application
+3. Test entire application
+
+Sprint 4:
+----------
+1. Documentation of the application
+2. Flow chart of application
